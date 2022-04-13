@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is for challenge 2 - Jack
+=======
+This is for challenge 2 - Sam
+>>>>>>> 3c89839761eaa2f319068976c419a88c2e292b4f
 
 This is also for challenge 1 - Sam
